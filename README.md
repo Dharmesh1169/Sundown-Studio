@@ -1,4 +1,4 @@
-# Reddit Clone
+# Sundown Studio Clone
 
 This Sundown-Studio Clone is a Single Page Web Clone that replicates some features of the Sundown-studio. Sundown is a multi-disciplinary studio focused on creating unique, end-to-end experiences and environments. If you clone this websit, you definitely improve your css and js skills
 
